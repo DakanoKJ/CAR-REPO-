@@ -364,5 +364,5 @@ void main()
 	Car bmw(10, 80);
 	bmw.control_car();
 	bmw.info();
-
+	bmw.info();
 }
